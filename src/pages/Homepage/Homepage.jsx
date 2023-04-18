@@ -45,6 +45,7 @@ export const Homepage = () => {
           ...centredItems,
           gap: "30px",
           justifyContent: "flex-start",
+          marginBottom: "24px",
           marginBottom: "40px",
         }}
       >
